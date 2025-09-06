@@ -51,7 +51,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### 📈 Activity Graph
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=sidtauseef&theme=react-dark&hide_border=true&area=true)
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sid-Tauseef&theme=react-dark&hide_border=true&area=true)
 
 ### ✍️ Random Dev Quote
 ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
