@@ -10,17 +10,17 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddiqui-tauseef-ahmed/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leet-code&logoColor=white)](https://leetcode.com/u/sidtauseef/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sidtauseef)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sid-Tauseef)
 
 ### 📊 GitHub Stats
 
-![Tauseeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=sidtauseef&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sidtauseef&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sidtauseef&theme=radical)
+![Tauseeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sid-Tauseef&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sid-Tauseef&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sid-Tauseef&theme=radical)
 
 ### 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=sidtauseef&theme=radical&no-frame=true&row=1&column=6)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Sid-Tauseef&theme=radical&no-frame=true&row=1&column=6)
 
 ### 💻 Technologies & Tools
 
